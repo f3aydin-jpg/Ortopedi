@@ -21,11 +21,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">I'm Furkan from Turkey<br><br>🔺 I’m working as Software Support<br>🔺 I'm currently learning C# - MSSQL - HTML - CSS - JAVASCRIPT<br>🔺 In my free time i read and write or coding</p>
+<p align="left">I'm Furkan from Turkey<br><br> I’m working as Software Support<br> I'm currently learning C# - MSSQL - HTML - CSS - JAVASCRIPT<br> In my free time i read and write or coding</p>
 
 ###
 
@@ -47,6 +47,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"> My Stats :</h3>
 
 ###
